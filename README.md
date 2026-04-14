@@ -9,3 +9,5 @@ process and analyze the data for deforestation monitoring
 
 The workflow includes data discovery, retrieval via the UP42 API, preprocessing, NDVI computation, and change detection to identify deforestation patterns.
 This approach ensures a reproducible and scalable pipeline for monitoring environmental changes over time.
+> Open the notebook in Google Colab for full interactivity (e.g., map visualization and execution).
+> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mozhdeh-dav/UP42-Technical-Support-Engineer-Challenge-Monitoring-Amazonas-Deforestation-/blob/main/Sentinel2_Deforestation_Analysis_Up42API.ipynb)
